@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./src/assets/img/win.gif" width="45%" title="Win">
-  <img src="./src/assets/img/zamacasino.png" width="45%" title="Logo">
+  <img src="./src/assets/img/win.gif" width="90%" title="Win">
+  <img src="./src/assets/img/zamacasino.png" width="10%" title="Logo">
 </p>
 
 
-<img src="./src/assets/img/zamacasino.png" width="20"> Zamacasino
+<span><img src="./src/assets/img/zamacasino.png" width="20"> Zamacasino</span>
 
 A fully on-chain Roulette game powered by Fully Homomorphic Encryption (FHE). Play privately, verify publicly.
 
