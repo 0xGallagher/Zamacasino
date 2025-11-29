@@ -1,15 +1,16 @@
 <p align="center">
   <img src="./src/assets/img/win.gif" width="95%" title="Win"></br></br>
-  <img src="./src/assets/img/zamacasino.png" width="120" title="Logo">
+  <img src="./src/assets/img/zamacasino.png" width="150" title="Logo">
 </p>
 
 
-### <img src="./src/assets/img/zamacasino.png" width="25" style="margin-top: 10px;" /> Zamacasino
+### <img src="./src/assets/img/zamacasino.png" width="20" /> Zamacasino
 
 A fully on-chain Roulette game powered by Fully Homomorphic Encryption (FHE). Play privately, verify publicly.
 
+</br>
 
-What is this?
+### <img src="./src/assets/img/zamacasino.png" width="20" /> What is this?
 
 (This is a demo application and is not associated with real money.)
 
@@ -24,8 +25,9 @@ Encrypted State: Your balance is stored as euint32 (encrypted integer) on-chain.
 Provably Fair: The winning number is generated on-chain using FHE.randEuint8 and then publicly revealed.
 
 
+</br>
 
-Gameplay
+### <img src="./src/assets/img/zamacasino.png" width="20" /> Gameplay
 
 Here is the lifecycle of a single game round:
 
@@ -46,8 +48,9 @@ Faucet: Press the "+" button in the balance field, then press the Claim button a
 Play: After you place your bet click plat button and grant permission from your wallet and then it's done. The rest are classic roulette rules.
 
 
+</br>
 
-Features
+### <img src="./src/assets/img/zamacasino.png" width="20" /> Features
 
 Privacy First: Inputs and Balances are encrypted using FHE.
 
@@ -63,7 +66,9 @@ Integrated Faucet: Built-in faucet to claim demo tokens for testing.
 
 
 
-Tech Stack
+</br>
+
+### <img src="./src/assets/img/zamacasino.png" width="20" /> Tech Stack
 
 Frontend: React.js
 
@@ -77,7 +82,9 @@ Development Environment: Hardhat
 
 
 
-Prerequisites
+</br>
+
+### <img src="./src/assets/img/zamacasino.png" width="20" /> Prerequisites
 
 Before you start, make sure you have:
 
@@ -85,11 +92,13 @@ Node.js (v18 or higher recommended)
 
 MetaMask installed in your browser.
 
-Zama Sepolia Network added to MetaMask.
+Ethereum Sepolia Network added to MetaMask.
 
 
 
-Installation & Setup
+</br>
+
+### <img src="./src/assets/img/zamacasino.png" width="20" /> Installation & Setup
 
 Clone the repository:
 
